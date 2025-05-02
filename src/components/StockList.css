@@ -1,0 +1,22 @@
+.legend {
+    text-align: right;
+    font-size: 13px;
+    margin-bottom: -2px;
+}
+
+.color-box {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin-right: 0px;
+    position: relative;
+    top: 0px;
+}
+
+.green {
+    background-color: green;
+}
+
+.red {
+    background-color: red;
+}
